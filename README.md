@@ -98,6 +98,7 @@
 
 注：安卓app开发过程代码量过多，仅展示核心算法
 
+
 1.	集合的笛卡尔乘积
 
 String s1=input1.getText().toString();
@@ -499,4 +500,5 @@ for (int i = 0; i < A.length; i++) {
 }
 
 juzhen.append(re); //输出传递闭包运算结果到文本框
+
 
